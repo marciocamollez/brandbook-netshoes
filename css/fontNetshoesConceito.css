@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'Netshoes Conceito Bold Tx';
+    src: url('../fonts/NetshoesConceito-BoldTx.eot');
+    src: url('../fonts/NetshoesConceito-BoldTx.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NetshoesConceito-BoldTx.woff2') format('woff2'),
+        url('../fonts/NetshoesConceito-BoldTx.woff') format('woff'),
+        url('../fonts/NetshoesConceito-BoldTx.ttf') format('truetype'),
+        url('../fonts/NetshoesConceito-BoldTx.svg#NetshoesConceito-BoldTx') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netshoes Conceito Tx';
+    src: url('../fonts/NetshoesConceito-RegularTx.eot');
+    src: url('../fonts/NetshoesConceito-RegularTx.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NetshoesConceito-RegularTx.woff2') format('woff2'),
+        url('../fonts/NetshoesConceito-RegularTx.woff') format('woff'),
+        url('../fonts/NetshoesConceito-RegularTx.ttf') format('truetype'),
+        url('../fonts/NetshoesConceito-RegularTx.svg#NetshoesConceito-RegularTx') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netshoes Conceito SemiBold Tx';
+    src: url('../fonts/NetshoesConceito-SemiBoldTx.eot');
+    src: url('../fonts/NetshoesConceito-SemiBoldTx.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NetshoesConceito-SemiBoldTx.woff2') format('woff2'),
+        url('../fonts/NetshoesConceito-SemiBoldTx.woff') format('woff'),
+        url('../fonts/NetshoesConceito-SemiBoldTx.ttf') format('truetype'),
+        url('../fonts/NetshoesConceito-SemiBoldTx.svg#NetshoesConceito-SemiBoldTx') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netshoes Conceito';
+    src: url('../fonts/NetshoesConceito-Regular.eot');
+    src: url('../fonts/NetshoesConceito-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NetshoesConceito-Regular.woff2') format('woff2'),
+        url('../fonts/NetshoesConceito-Regular.woff') format('woff'),
+        url('../fonts/NetshoesConceito-Regular.ttf') format('truetype'),
+        url('../fonts/NetshoesConceito-Regular.svg#NetshoesConceito-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netshoes Conceito Extra Bold';
+    src: url('../fonts/NetshoesConceito-ExtraBold.eot');
+    src: url('../fonts/NetshoesConceito-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NetshoesConceito-ExtraBold.woff2') format('woff2'),
+        url('../fonts/NetshoesConceito-ExtraBold.woff') format('woff'),
+        url('../fonts/NetshoesConceito-ExtraBold.ttf') format('truetype'),
+        url('../fonts/NetshoesConceito-ExtraBold.svg#NetshoesConceito-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netshoes Conceito Bold';
+    src: url('../fonts/NetshoesConceito-Bold.eot');
+    src: url('../fonts/NetshoesConceito-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NetshoesConceito-Bold.woff2') format('woff2'),
+        url('../fonts/NetshoesConceito-Bold.woff') format('woff'),
+        url('../fonts/NetshoesConceito-Bold.ttf') format('truetype'),
+        url('../fonts/NetshoesConceito-Bold.svg#NetshoesConceito-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netshoes Conceito Light Tx';
+    src: url('../fonts/NetshoesConceito-LightTx.eot');
+    src: url('../fonts/NetshoesConceito-LightTx.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NetshoesConceito-LightTx.woff2') format('woff2'),
+        url('../fonts/NetshoesConceito-LightTx.woff') format('woff'),
+        url('../fonts/NetshoesConceito-LightTx.ttf') format('truetype'),
+        url('../fonts/NetshoesConceito-LightTx.svg#NetshoesConceito-LightTx') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netshoes Conceito Semi Bold';
+    src: url('../fonts/NetshoesConceito-SemiBold.eot');
+    src: url('../fonts/NetshoesConceito-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NetshoesConceito-SemiBold.woff2') format('woff2'),
+        url('../fonts/NetshoesConceito-SemiBold.woff') format('woff'),
+        url('../fonts/NetshoesConceito-SemiBold.ttf') format('truetype'),
+        url('../fonts/NetshoesConceito-SemiBold.svg#NetshoesConceito-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netshoes Conceito Light';
+    src: url('../fonts/NetshoesConceito-Light.eot');
+    src: url('../fonts/NetshoesConceito-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NetshoesConceito-Light.woff2') format('woff2'),
+        url('../fonts/NetshoesConceito-Light.woff') format('woff'),
+        url('../fonts/NetshoesConceito-Light.ttf') format('truetype'),
+        url('../fonts/NetshoesConceito-Light.svg#NetshoesConceito-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netshoes Conceito ExtraBold Tx';
+    src: url('../fonts/NetshoesConceito-ExtraBoldTx.eot');
+    src: url('../fonts/NetshoesConceito-ExtraBoldTx.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NetshoesConceito-ExtraBoldTx.woff2') format('woff2'),
+        url('../fonts/NetshoesConceito-ExtraBoldTx.woff') format('woff'),
+        url('../fonts/NetshoesConceito-ExtraBoldTx.ttf') format('truetype'),
+        url('../fonts/NetshoesConceito-ExtraBoldTx.svg#NetshoesConceito-ExtraBoldTx') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netshoes Conceito Thin Tx';
+    src: url('../fonts/NetshoesConceito-ThinTx.eot');
+    src: url('../fonts/NetshoesConceito-ThinTx.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NetshoesConceito-ThinTx.woff2') format('woff2'),
+        url('../fonts/NetshoesConceito-ThinTx.woff') format('woff'),
+        url('../fonts/NetshoesConceito-ThinTx.ttf') format('truetype'),
+        url('../fonts/NetshoesConceito-ThinTx.svg#NetshoesConceito-ThinTx') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netshoes Conceito Thin';
+    src: url('../fonts/NetshoesConceito-Thin.eot');
+    src: url('../fonts/NetshoesConceito-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NetshoesConceito-Thin.woff2') format('woff2'),
+        url('../fonts/NetshoesConceito-Thin.woff') format('woff'),
+        url('../fonts/NetshoesConceito-Thin.ttf') format('truetype'),
+        url('../fonts/NetshoesConceito-Thin.svg#NetshoesConceito-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
